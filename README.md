@@ -20,7 +20,7 @@
 ### Usage
 * Run npm start:dev to start the application.
 * Connect to the API using Postman on port 5009.
-## Live Link:     [https://Chat-App-Server:4000](https://chat-app-server-414t.onrender.com)  
+## API documentation Link:     [https://Chat-App-Server-API:4000](https://chat-app-server-414t.onrender.com/api-docs/)  
 ### API Endpoints
 | HTTP Verbs | Endpoints | Action |
 | --- | --- | --- |
